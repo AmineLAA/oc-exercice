@@ -1,1 +1,1 @@
-Exercice : Git & GitHub - Partie 2 Activité
+Petit exemple d'une bibliotèque de livres
